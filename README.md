@@ -14,7 +14,7 @@ A mobile-first web app for tracking golf scores during your round.
 
 ## Live Demo
 
-**Deployed App:** `[INSERT YOUR URL HERE]`  
+https://mobilgolf.netlify.app/  
 
 ## Run Locally
 ```bash
