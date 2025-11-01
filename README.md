@@ -50,5 +50,5 @@ See `ai-notes.md` for detailed documentation of prompts, outputs, and verificati
 
 ## Author
 
-**[YOUR NAME]**  
-[YOUR GITHUB PROFILE] ddm5544@psu.edu
+Dayon McCray 
+ddm5544@psu.edu
